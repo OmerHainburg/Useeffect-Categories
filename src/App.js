@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
         <h1>Rules of Hooks</h1>
         <Shop />
+        {/* <!--Omer> */}
       </header>
     </div>
   );
